@@ -1,5 +1,5 @@
-#***Python Assignments and Data Analysis Projects***
-##**Overview**
+***Python Assignments and Data Analysis Projects***
+**Overview**
 
 This repository is a collection of Python assignments and mini-projects demonstrating core programming concepts, data analysis, data visualization, and basic machine learning techniques. It is designed to showcase hands-on practice using popular Python libraries.
 
