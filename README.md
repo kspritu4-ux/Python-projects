@@ -39,17 +39,17 @@ End-to-end mini project including data cleaning, EDA, and a basic machine learni
 
 **Tools & Libraries Used**
 
-- Python
+- [Python]
 
-- Pandas
+- [Pandas]
 
-- NumPy
+- [NumPy]
 
-- Matplotlib
+- [Matplotlib]
 
-- Seaborn
+- [Seaborn]
 
-- scikit-learn
+- [scikit-learn]
 
 **Purpose**
 
